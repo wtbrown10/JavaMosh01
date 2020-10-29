@@ -13,7 +13,7 @@ public class Main {
 //        browser.findIpAddress("...", true);
 
         var control = new TextBox();
-        control.
+
         System.out.println(control.isEnabled());
 
     }
