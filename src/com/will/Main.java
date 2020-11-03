@@ -7,7 +7,7 @@ public class Main {
 //        Employee.printNumberOfEmployees();
 //        int wage = employee.calculateWage();
 //
-//       System.out.println("$" + wage + "$");
+//       System.out.println("$" + wage);
 
 //        Browser browser = new Browser();
 //        browser.findIpAddress("...", true);
